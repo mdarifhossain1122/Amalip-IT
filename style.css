@@ -153,7 +153,8 @@
     text-align: center;
     padding: 100px 0px 0px 0px;
     font-size: 40px;
-    background-color: #fde6ee;
+    background-color: rgb(3, 18, 64);
+    color: white;
 }
 
 
@@ -165,7 +166,7 @@
 .engineer{
     width: 100%;
     height: 100vh;
-    background: #fde6ee;
+    background: rgb(3, 18, 64);
     display: flex;
     align-items: center;
     padding-bottom: 50px;
